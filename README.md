@@ -10,7 +10,7 @@ I enjoy experimenting with new tools and technologies to bring my ideas to life.
 
 - **Programming Languages:** Python
 - **Web Development:** HTML, CSS
-- **Tools & Technologies:** Git, GitHub
+- **Tools & Technologies:** GitHub, Pytest, Poetry
 - **Other Skills:** Problem-solving, critical thinking, teamwork, English language C1
 
 ## Projects
