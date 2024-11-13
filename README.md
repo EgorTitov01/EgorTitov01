@@ -24,7 +24,7 @@ Here are a few projects I've worked on:
 
 I am always open to collaboration and learning opportunities. Feel free to reach out to me:
 
-- Telegram: @egorr1785)
+- Telegram: @egorr1785
 - Email: titov.egor1001@gmail.com
 
 Thank you for visiting my profile! 🚀
