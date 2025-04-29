@@ -17,8 +17,8 @@ I enjoy experimenting with new tools and technologies to bring my ideas to life.
 
 Here are a few projects I've worked on:
 
-- **[Brain-games](https://github.com/EgorTitov01/Brain-games)**: A CLI with five mathematical games for you to play. 
-- **[gendiff](https://github.com/EgorTitov01/gendiff)**: A CLI which compares two files in json or yaml formats and returns difference in the format you choose.
+- **[Brain-games](https://github.com/EgorTitov01/Brain-games)**: CLI with five mathematical games for you to play. 
+- **[gendiff](https://github.com/EgorTitov01/gendiff)**: CLI which compares two files in json or yaml formats and returns difference in the format you choose.
 
 ## Let's Connect!
 
