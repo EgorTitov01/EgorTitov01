@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am a **beginner Python developer** currently studying at [Hexlet](https://hexlet.io). I have a passion for coding and a strong desire to continuously develop my skills. 
+I am a **Python developer** currently studying at [Hexlet](https://hexlet.io). I have a passion for coding and a strong desire to continuously develop my skills. 
 
 I enjoy experimenting with new tools and technologies to bring my ideas to life. Whether it's building web-applications, CLIs or automating tasks I love the challenge of solving problems through code.
 
