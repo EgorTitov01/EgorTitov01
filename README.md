@@ -2,15 +2,16 @@
 
 ## About Me
 
-I am a **Python developer** currently studying at [Hexlet](https://hexlet.io). I have a passion for coding and a strong desire to continuously develop my skills. 
+I am a **Python developer** mostly focusing on building Web-applications. I have a passion for coding and a strong desire to continuously develop my skills. 
 
 I enjoy experimenting with new tools and technologies to bring my ideas to life. Whether it's building web-applications, CLIs or automating tasks I love the challenge of solving problems through code.
 
 ## Skills
 
 - **Programming Languages:** Python
-- **Web Development:** HTML, CSS
-- **Tools & Technologies:** GitHub, Pytest, Poetry
+- **Web Development:** Django, Flask, requests, HTTP, HTML
+- **Tools & Technologies:** Git, Pytest, BeautifulSoup
+- **Data Management:** PostgreSQL, SQL, Django ORM
 - **Other Skills:** Problem-solving, critical thinking, teamwork, English language C1
 
 ## Projects
@@ -28,4 +29,3 @@ I am always open to collaboration and learning opportunities. Feel free to reach
 - Telegram: @egorr1785
 - Email: titov.egor1001@gmail.com
 
-Thank you for visiting my profile! 🚀
